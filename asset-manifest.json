@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/India-Tour/static/css/main.af2131dc.css",
+    "main.js": "/India-Tour/static/js/main.8ffe896f.js",
+    "index.html": "/India-Tour/index.html",
+    "main.af2131dc.css.map": "/India-Tour/static/css/main.af2131dc.css.map",
+    "main.8ffe896f.js.map": "/India-Tour/static/js/main.8ffe896f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af2131dc.css",
+    "static/js/main.8ffe896f.js"
+  ]
+}
