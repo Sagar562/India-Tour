@@ -27,12 +27,12 @@ function Cards ({id,image,info,name,price,removeTour})
 
                 <p className="tour-info">{description} <span className="tour-readmore" onClick={readMoreHandler}>{readMore ? "Show Less" : "Read More"}</span></p>
 
-            
+             </div>
             
             <div className="btn-red-class">
-                <button className="btn-red" onClick={() => removeTour(id)}>Not intrusted</button>
+                <button className="btn-red" onClick={() => removeTour(id)}>Not interested</button>
             </div>
-            </div>
+            
 
             </div>
           
