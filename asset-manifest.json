@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/India-Tour/static/css/main.af2131dc.css",
-    "main.js": "/India-Tour/static/js/main.8ffe896f.js",
+    "main.css": "/India-Tour/static/css/main.636af38e.css",
+    "main.js": "/India-Tour/static/js/main.f9d8e9ef.js",
     "index.html": "/India-Tour/index.html",
-    "main.af2131dc.css.map": "/India-Tour/static/css/main.af2131dc.css.map",
-    "main.8ffe896f.js.map": "/India-Tour/static/js/main.8ffe896f.js.map"
+    "main.636af38e.css.map": "/India-Tour/static/css/main.636af38e.css.map",
+    "main.f9d8e9ef.js.map": "/India-Tour/static/js/main.f9d8e9ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.af2131dc.css",
-    "static/js/main.8ffe896f.js"
+    "static/css/main.636af38e.css",
+    "static/js/main.f9d8e9ef.js"
   ]
 }
